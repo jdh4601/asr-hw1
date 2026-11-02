@@ -1,0 +1,8 @@
+librosa
+numpy
+pandas
+joblib
+scikit-learn
+hmmlearn
+tensorflow>=2.0
+h5py==2.10

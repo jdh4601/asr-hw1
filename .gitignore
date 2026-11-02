@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+.venv/
+venv/
+__pycache__/
+downloads/
+TF_PatternRecognition/data/
+TF_PatternRecognition/model/
